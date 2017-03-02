@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urls>
+    <url>/member/login</url>
+    <url>/member/register</url>
+    <url>/member/cancelAppointment</url>
+    <url>/member/checkIn</url>
+    <url>/member/checkOut</url>
+    <url>/guest/createAppointment</url>
+    <url>/hotel/getCheckInByDate</url>
+    <url>/index.jsp</url>
+</urls>
